@@ -4,7 +4,7 @@ Build React PropTypes using a JSON Schema with introspection support.
 
 ## Usage
 
-`npm install --save react-json-schema-proptypes`
+`npm install --save https://github.com/AK-101111/react-json-schema-proptypes`
 
 ```js
 import propTypeSchema from 'react-json-schema-proptypes';
